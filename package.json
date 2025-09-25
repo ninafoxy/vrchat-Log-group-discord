@@ -2,7 +2,7 @@
   "name": "vrchat-discord-bot",
   "author": "MissLavandia",
   "version": "1.0.0",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
