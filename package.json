@@ -1,0 +1,19 @@
+{
+  "name": "vrchat-discord-bot",
+  "author": "MissLavandia",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.2",
+    "dotenv": "^16.0.0",
+    "node-cron": "^3.0.0",
+    "vrchat": "^1.2.1"
+  },
+  "devDependencies": {
+    "patch-package": "^8.0.0",
+    "postinstall-postinstall": "^2.1.0"
+  }
+}
