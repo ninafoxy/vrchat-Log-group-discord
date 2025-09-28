@@ -9,8 +9,14 @@ first command : npm install
 
 second command: node index.js
 
-How to do for your Bot
+How to do for your Bot:
+
+###
+
 <img width="697" height="232" alt="Capture d’écran du 2025-09-25 07-29-10" src="https://github.com/user-attachments/assets/3a9f68d1-3398-48f0-b004-69861041561f" />
+
+###
+
 as on the image in index.js modify with the group ID of your vrchat group and the text chat discord IDs
 a whole cat or forum its your choice: 
 
