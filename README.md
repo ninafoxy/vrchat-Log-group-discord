@@ -4,6 +4,9 @@ first:
 - you must have permission to see the log audit of the vrchat group
 
 first command : npm install
+
+###
+
 second command: node index.js
 
 How to do for your Bot
