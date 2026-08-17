@@ -25,7 +25,7 @@ const axiosInstance = axios.create({
   jar,
   withCredentials: true,
   headers: {
-    'User-Agent': 'vrchat-discord-bot/1.0.0 hugo@uwu.ceo',
+    'User-Agent': 'vrchat-discord-bot/1.0.0 youruseragent@uwu.com',
   },
 });
 
